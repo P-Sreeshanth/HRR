@@ -1,0 +1,23 @@
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# LangChain + Groq
+langchain==0.1.6
+langchain-groq==0.0.1
+langchain-community==0.0.17
+
+# Embeddings
+sentence-transformers==2.3.1
+
+# Vector Store
+qdrant-client==1.7.0
+
+# PDF Processing
+pdfplumber==0.10.3
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
